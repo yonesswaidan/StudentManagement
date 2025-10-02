@@ -13,6 +13,6 @@
         public Course Course { get; set; }
 
         // Grade
-        public int FinalGrade { get; set; }  // renamed from Grade
+        public int FinalGrade { get; set; }  
     }
 }
